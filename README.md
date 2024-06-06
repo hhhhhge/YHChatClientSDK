@@ -1,4 +1,5 @@
-# YHChatClientSDK
+## YHChatClientSDK
+等我考完再更新，到时候顺便为云湖写上satori协议适配，真正实现机器人
 
 ## 介绍
 
